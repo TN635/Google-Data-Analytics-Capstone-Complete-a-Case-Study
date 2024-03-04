@@ -4,7 +4,7 @@ library(ggplot2)
 library(dplyr)
 library(conflicted)
 
-## read the datasets in variable names 
+## read the datasets in variable name 
 
 q1_2019 <- read_csv("Divvy_Trips_2019_Q1.csv")
 q1_2020 <- read_csv("Divvy_Trips_2020_Q1.csv")
